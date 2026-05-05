@@ -31,12 +31,3 @@ Segunda iteração da classe `Celular`.
 Implementação focada em validação de intervalos.
 - **Foco:** Unir lógica condicional (`if/elif`) com tratamento de erro.
 - **Lógica:** Converte a entrada para `float` e categoriza o status da bateria (Baixo, Normal, Excelente), validando se o número está entre 0 e 100.
-
----
-
-## 💻 Como Executar
-1. Certifique-se de ter o **Python 3** instalado.
-2. Abra o arquivo no **Visual Studio** ou **VS Code**.
-3. Execute o script no terminal:
-   ```bash
-   python nome_do_seu_arquivo.py
